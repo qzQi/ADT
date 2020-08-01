@@ -1,2 +1,10 @@
-# ADT
-some simple data structure
+#数据结构&代码&算法
+
+##***2020 8/1 ***
+
+__学习完成git基本语法。
+第一次尝试将代码托管？
+学习使用GitHub。__
+(第一次用markdown）
+*********
+
